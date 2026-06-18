@@ -51,7 +51,6 @@ Google Trends values are relative, normalised search-interest indices, not count
 │   ├── Arabic_Keywords_Translation.csv
 │   ├── Jordanian Unemployment Rate 2010- Q1 2026.csv
 │   └── KWMonthly.csv
-├── data/processed/                   # harmonised modelling datasets
 ├── data/scripts/                  
 │   ├── 00_audit_raw_data.R
 │   ├── 00_packages.R
